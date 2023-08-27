@@ -1,0 +1,215 @@
+
+---Downloaded files---
+The import files for: Elegant Pink Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://hanghaivn.com
+Data file = /var/www/vhosts/hanghaivn.com/httpdocs/wp-content/uploads/rara-demo-pack/ridhi-demo-content/content/ridhi.xml
+Widget file = /var/www/vhosts/hanghaivn.com/httpdocs/wp-content/uploads/rara-demo-pack/ridhi-demo-content/content/ridhi.wie
+Customizer file = /var/www/vhosts/hanghaivn.com/httpdocs/wp-content/uploads/rara-demo-pack/ridhi-demo-content/content/ridhi.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 5
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 6
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 7
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 8
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 9
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 10
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 11
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 12
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 13
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 14
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 15
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 16
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 17
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 18
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 19
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 20
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 21
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 22
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 23
+[WARNING] Failed to import rp-portfolio-category Creative
+[WARNING] Failed to import rp-portfolio-category Photography
+[WARNING] Failed to import rp-portfolio-category Web Solutions
+[ERROR] Failed to import "cropped-chart-2785979_1280-1.jpg" (Đa phương tiện)
+[ERROR] Failed to import "cropped-business-1209705_640-1.jpg" (Đa phương tiện)
+
